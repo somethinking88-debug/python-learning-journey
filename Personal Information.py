@@ -1,10 +1,7 @@
 name = "Danny Thomas"
-profession = "Aspiring AI Engineer"
-language = "Python"
-goal = "Build intelligent AI applications"
+profession = "AI Engineer"
+favorite_language = "Python"
 
-print("Hello, GitHub!")
-print("Name:", name)
-print("Profession:", profession)
-print("Learning:", language)
-print("Goal:", goal)
+print("My name is", name)
+print("I want to become an", profession)
+print("My favorite programming language is", favorite_language)
